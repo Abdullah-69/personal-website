@@ -1,0 +1,183 @@
+body{
+    
+    margin: 0 auto;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.fix{
+    clear: both;
+}
+.full-wrapper{
+    width: 100%;
+    margin: auto;
+}
+.wrapper{
+    
+    width: 1200px;
+    margin: auto;
+ 
+}
+/*header part start css*/
+
+.header-bg{
+    
+    height: 1000px;
+    background-image: url(../images/header-bg.png);
+    background-repeat: no-repeat;
+   
+}
+
+#part-one{
+    padding-top: 322px;
+    
+}
+
+#part-two{
+    padding-top: 198px;
+}
+.half-width{
+    width: 50%;
+    height: 700px;
+    float: left;
+    padding-top: 200px}
+}
+
+.half-width h1{
+    font-size: 50px;
+    
+}
+
+.half-width h2{
+    color: #ec4c7a;
+    font-weight: 900;
+    font-size: 60px;
+    padding-bottom: 60px;
+}
+.half-width p{
+    font-size: 15px;
+    color: gray;
+    padding-bottom: 20px
+}
+.half-width a{
+    background-color: #ec4c7a;
+    color: white;
+    padding: 10px 40px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+.half-width img{
+    height: 100%;
+}
+
+
+/*header part end css*/
+
+/*Biography part start css*/
+
+.bio-bg{
+    background: url(../images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 1000px;
+}
+
+#dream-one{
+ float: left;
+    width: 40%;
+    padding-top: 29px;
+}
+
+#dream-two{
+ float: right;
+     width: 40%;
+
+}
+/*Biography part end css*/
+
+/*My latest work part start css*/
+
+.latest-work{
+    
+    width: 33.333%;
+    float: left;
+    height: 500px;
+    
+}
+.latest-work-bg{
+    
+    background: url(../images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+.latest-work img{
+    
+    height: 250px;
+    
+}
+
+.latest-work-h1{
+    text-align: center;
+    padding-bottom: 63px;
+    
+}
+
+/*My latest work part end css*/
+
+/*footer part end css*/
+.footer-bg{
+    background: url(../images/footer-bg.png)
+}
+
+.footer-area{
+    text-align: center;
+    height: 600px;
+}
+
+.footer-area h1{
+    font-size: 55px;
+}
+.footer-area h3{
+    font-size: 31px;
+    padding-top: 40px;
+        margin-bottom: -5px;
+}
+.footer-area p{
+    
+}
+.founder-text{
+    
+    font-size: 15px;
+    color: gray;
+    padding-bottom: 50px;
+}
+.loream-text{
+    font-size: 24px;
+    color: #333333;
+}
+.email-part{
+ 
+    background-color: #ec4c7a;
+    color: white;
+    padding: 76px 30px;
+    border-radius: 14px;
+    font-size: 39px;
+    
+}
+span{
+    font-size: 24px;
+    
+}
+.footer-text{
+     padding-top: 139px;
+     font-size: 20px;
+    padding-bottom: 50px;
+    
+}
+
+/*footer part end css*/
