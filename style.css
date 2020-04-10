@@ -28,7 +28,7 @@ a{
 .header-bg{
     
     height: 1000px;
-    background-image: url(../images/header-bg.png);
+    background-image: url(images/header-bg.png);
     background-repeat: no-repeat;
    
 }
@@ -81,7 +81,7 @@ a{
 /*Biography part start css*/
 
 .bio-bg{
-    background: url(../images/biography-bg.png);
+    background: url(images/biography-bg.png);
     background-repeat: no-repeat;
     height: 1000px;
 }
@@ -110,7 +110,7 @@ a{
 }
 .latest-work-bg{
     
-    background: url(../images/latest-work-bg.png);
+    background: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
     height: 500px;
 }
@@ -131,7 +131,7 @@ a{
 
 /*footer part end css*/
 .footer-bg{
-    background: url(../images/footer-bg.png)
+    background: url(images/footer-bg.png)
 }
 
 .footer-area{
